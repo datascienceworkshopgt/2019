@@ -39,5 +39,7 @@ Ciudad de Guatemala
 * repository: https://github.com/leaguilar/AIknowthatfeel
 * score bot: https://github.com/apps/gtworkshop2019
 * dashboard: http://3.13.138.171/results.php
+* paper: http://www.sysml.cc/doc/2019/162.pdf
+* video: https://www.youtube.com/watch?v=yzABa3G509o
 
 ###
