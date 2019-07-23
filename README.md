@@ -35,6 +35,12 @@ Ciudad de Guatemala
 
 # Material y otros links
 
+### Módulo 1: Minería de Procesos
+* repositorio: https://github.com/pandobre/mineria_de_procesos
+* Disco https://fluxicon.com/disco/
+* ProM Workbench: http://www.promtools.org/doku.php
+
+
 ### Módulo 2: AI know that feel
 * repositorio: https://github.com/leaguilar/AIknowthatfeel
 * score bot: https://github.com/apps/gtworkshop2019
