@@ -35,11 +35,12 @@ Ciudad de Guatemala
 
 # Material y otros links
 
-### AI know that feel
-* repository: https://github.com/leaguilar/AIknowthatfeel
+### Módulo 2: AI know that feel
+* repositorio: https://github.com/leaguilar/AIknowthatfeel
 * score bot: https://github.com/apps/gtworkshop2019
 * dashboard: http://3.13.138.171/results.php
 * paper: http://www.sysml.cc/doc/2019/162.pdf
 * video: https://www.youtube.com/watch?v=yzABa3G509o
 
-###
+### Módulo 3: Agrupamiento y reducción de variables: Análisis clúster y factorial
+* repositorio: https://bitbucket.org/p3d40/tallerconverciencia2019/
